@@ -39,23 +39,23 @@
             android:textColor="@color/input_register"
             android:textColorHint="@color/input_register_hint" />
 
-        <Button
-            android:id="@+id/btn_login"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dip"
-            android:background=""
-            android:text="@string/btn_login"
-            android:textColor="@color/white" />
+<!--        <Button-->
+<!--            android:id="@+id/btn_login"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="20dp"-->
+<!--            android:background=""-->
+<!--            android:text="@string/btn_login"-->
+<!--            android:textColor="@color/white" />-->
 
-        <Button
-            android:id="@+id/btn_register"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dip"
-            android:background=""
-            android:text="@string/btn_register"
-            android:textColor="@color/white" />
+<!--        <Button-->
+<!--            android:id="@+id/btn_register"-->
+<!--            android:layout_width="fill_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="20dip"-->
+<!--            android:background=""-->
+<!--            android:text="@string/btn_register"-->
+<!--            android:textColor="@color/white" />-->
 
     </LinearLayout>
 </LinearLayout>
